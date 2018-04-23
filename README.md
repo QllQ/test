@@ -1,0 +1,2 @@
+# test
+collect log
